@@ -1,36 +1,16 @@
-# 💫 Hi 👋, I'm Devashish Tanti  
-### 🚀 Full-Stack Web Developer | Aspiring QA Engineer  
+👋 Hi, I'm Devashish Tanti  
 
-Detail-oriented BCA final-year student with hands-on experience in **web development and quality assurance**.  
-I enjoy testing applications, finding edge cases, validating APIs, and ensuring smooth user experiences — backed by a solid development background.
+🚀 Full-Stack Web Developer | Aspiring QA Engineer  
 
-📧 **Email:** devukr72@gmail.com  
-💼 **Open to:** QA roles, internships, collaborations, and learning opportunities  
+📧 Email: devukr72@gmail.com  
+💼 Open to: QA roles, internships & collaborations  
 
----
+- 🔭 Working on: Manual testing, API testing (Postman)  
+- 🌱 Learning: Software Testing, SDLC & Agile  
+- 👯 Collaborate on: Web apps & QA-focused projects  
+- 💬 Ask me about: Manual Testing, API Testing, Web Dev  
+- ⚡ Fun fact: I enjoy breaking apps to make them better 😄  
 
-## 👨‍💻 About Me  
-
-- 🔭 **Currently working on:**  
-  Manual testing of web applications, API testing with Postman, and improving test documentation  
-
-- 🌱 **Currently learning:**  
-  Software Testing fundamentals, SDLC & Agile, basic test automation concepts  
-
-- 👯 **Looking to collaborate on:**  
-  Web applications, testing real-world projects, QA-focused open-source contributions  
-
-- 🤔 **Looking for help with:**  
-  Test automation basics and industry best practices in QA  
-
-- 💬 **Ask me about:**  
-  Manual Testing, API Testing, Web Development, Postman, React basics  
-
-- 📫 **How to reach me:**  
-  devukr72@gmail.com  
-
-- ⚡ **Fun fact:**  
-  I enjoy breaking apps to help make them better 😄
 
   ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=dev-ashishh&theme=radical&no-frame=false&no-bg=true&margin-w=4)
